@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 )](https://github.com/ryo-ma/github-profile-trophy)
 <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyo526&theme=date_night">
 <p align = "left">
-  <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyo526&theme=date_night">
-  <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koyo526&theme=date_night&utcOffset=8">
+  <img height = "240px" src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyo526&theme=date_night">
+  <img height = "240px" src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koyo526&theme=date_night&utcOffset=8">
 </p>
 
 
