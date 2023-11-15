@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> 
-  <style>img{
+  <style>.image {
   width: 100%;
   }</style>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koyo526&layout=compact&count_private=true&show_icons=true&theme=onedark" />
