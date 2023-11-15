@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Koyo526&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyo526&theme=date_night">
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyo526&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koyo526&theme=date_night&utcOffset=8)
+<p align = "left">
+  <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyo526&theme=date_night">
+  <img height = "250px" src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koyo526&theme=date_night&utcOffset=8">
+</p>
+
 
