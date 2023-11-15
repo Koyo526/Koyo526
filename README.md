@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Koyo526&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyo526&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koyo526&theme=dark&utcOffset=8)
 
